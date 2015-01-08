@@ -19,4 +19,4 @@
 
 482 xxx
 报告程序bug:bc3520@gmail.com
-软件源码：
+软件源码：https://github.com/AAC8020/-
